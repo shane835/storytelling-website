@@ -1,0 +1,33 @@
+
+
+p{ color: purple;}
+
+h1{color: rgb(252, 137, 137)}
+
+
+
+li{color: green}
+
+
+ol{color: yellow;}
+
+
+ul{color: darkgreen;}
+
+
+
+.list{color: darkgreen;}
+
+
+
+.list{
+    color:blue;
+    margin: 10px;
+    border-style: solid;
+    border-color: red;
+}
+
+#header{
+    color:aqua;
+    text-align: center;
+}
